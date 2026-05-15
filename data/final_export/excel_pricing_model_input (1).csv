@@ -1,0 +1,175 @@
+route_id,origin_city,origin_state,destination_city,destination_state,typical_distance_miles,typical_transit_days,booking_type,historical_load_volume,baseline_avg_rpm,baseline_avg_mpg
+RTE00036,Las Vegas,NV,Los Angeles,CA,262,1,Dedicated,745,3.13,6.5
+RTE00032,Portland,OR,Detroit,MI,2259,3,Spot,380,2.16,6.48
+RTE00045,Charlotte,NC,Memphis,TN,597,1,Dedicated,729,2.61,6.55
+RTE00039,Minneapolis,MN,Atlanta,GA,1044,1,Spot,358,2.43,6.52
+RTE00010,New York,NY,Philadelphia,PA,92,1,Dedicated,739,2.51,6.47
+RTE00019,Houston,TX,Detroit,MI,1271,2,Contract,361,2.63,6.49
+RTE00021,Houston,TX,Portland,OR,2108,3,Contract,366,2.69,6.45
+RTE00004,Chicago,IL,Portland,OR,2017,3,Dedicated,714,2.02,6.53
+RTE00015,Philadelphia,PA,New York,NY,92,1,Dedicated,794,3.63,6.49
+RTE00022,Houston,TX,Memphis,TN,557,1,Spot,344,2.3,6.47
+RTE00005,Chicago,IL,Las Vegas,NV,1749,3,Contract,365,2.64,6.49
+RTE00020,Houston,TX,Seattle,WA,2172,3,Dedicated,735,2.09,6.45
+RTE00023,Miami,FL,Dallas,TX,1276,2,Spot,343,2.48,6.47
+RTE00001,Atlanta,GA,Chicago,IL,677,1,Spot,371,1.94,6.5
+RTE00033,Portland,OR,Seattle,WA,167,1,Contract,374,3.03,6.5
+RTE00058,Kansas City,MO,Indianapolis,IN,519,1,Dedicated,729,2.51,6.52
+RTE00049,Columbus,OH,Minneapolis,MN,720,1,Contract,353,2.85,6.48
+RTE00003,Chicago,IL,Los Angeles,CA,2003,3,Dedicated,743,2.79,6.5
+RTE00014,Phoenix,AZ,Kansas City,MO,1204,2,Spot,377,2.33,6.53
+RTE00053,Kansas City,MO,Atlanta,GA,777,1,Contract,342,2.64,6.48
+RTE00006,Chicago,IL,Charlotte,NC,675,1,Spot,363,2.46,6.47
+RTE00042,Charlotte,NC,Seattle,WA,2623,4,Dedicated,716,2.52,6.49
+RTE00029,Seattle,WA,Charlotte,NC,2623,4,Spot,379,2.75,6.46
+RTE00056,Kansas City,MO,Portland,OR,1718,2,Spot,376,2.61,6.54
+RTE00055,Kansas City,MO,Miami,FL,1429,2,Dedicated,737,2.74,6.48
+RTE00057,Kansas City,MO,Charlotte,NC,921,1,Spot,372,2.74,6.54
+RTE00030,Seattle,WA,Indianapolis,IN,2147,3,Spot,367,2.76,6.46
+RTE00017,Philadelphia,PA,Minneapolis,MN,1130,1,Dedicated,686,2.15,6.52
+RTE00008,Dallas,TX,Denver,CO,762,1,Spot,354,2.77,6.51
+RTE00053,Kansas City,MO,Atlanta,GA,777,1,Spot,357,2.63,6.51
+RTE00051,Memphis,TN,Los Angeles,CA,1840,3,Contract,353,2.08,6.55
+RTE00027,Detroit,MI,Houston,TX,1271,2,Dedicated,756,2.35,6.48
+RTE00041,Minneapolis,MN,Houston,TX,1216,2,Dedicated,660,2.94,6.51
+RTE00048,Columbus,OH,Portland,OR,2332,4,Dedicated,737,2.99,6.51
+RTE00050,Columbus,OH,Kansas City,MO,712,1,Dedicated,711,2.22,6.5
+RTE00056,Kansas City,MO,Portland,OR,1718,2,Contract,359,2.62,6.5
+RTE00046,Columbus,OH,Los Angeles,CA,2269,3,Dedicated,761,2.9,6.53
+RTE00005,Chicago,IL,Las Vegas,NV,1749,3,Spot,338,2.63,6.53
+RTE00025,Miami,FL,Seattle,WA,3141,5,Spot,362,1.8,6.51
+RTE00025,Miami,FL,Seattle,WA,3141,5,Contract,376,1.8,6.49
+RTE00038,Las Vegas,NV,Kansas City,MO,1311,2,Dedicated,712,2.91,6.52
+RTE00001,Atlanta,GA,Chicago,IL,677,1,Contract,398,1.95,6.54
+RTE00040,Minneapolis,MN,Los Angeles,CA,1749,3,Dedicated,711,2.64,6.5
+RTE00026,Miami,FL,Denver,CO,1984,3,Dedicated,729,1.97,6.47
+RTE00007,Dallas,TX,New York,NY,1576,2,Dedicated,746,2.82,6.47
+RTE00039,Minneapolis,MN,Atlanta,GA,1044,1,Contract,376,2.4,6.51
+RTE00029,Seattle,WA,Charlotte,NC,2623,4,Contract,366,2.76,6.49
+RTE00018,Philadelphia,PA,Indianapolis,IN,670,1,Spot,357,2.39,6.56
+RTE00002,Atlanta,GA,Miami,FL,697,1,Contract,350,2.36,6.51
+RTE00002,Atlanta,GA,Miami,FL,697,1,Spot,401,2.33,6.51
+RTE00043,Charlotte,NC,Denver,CO,1559,2,Dedicated,749,1.7,6.53
+RTE00051,Memphis,TN,Los Angeles,CA,1840,3,Spot,367,2.09,6.5
+RTE00054,Kansas City,MO,Los Angeles,CA,1557,2,Dedicated,722,2.18,6.5
+RTE00024,Miami,FL,Philadelphia,PA,1175,2,Spot,339,2.79,6.5
+RTE00033,Portland,OR,Seattle,WA,167,1,Spot,384,3.02,6.51
+RTE00034,Portland,OR,Columbus,OH,2332,4,Spot,374,2.41,6.51
+RTE00016,Philadelphia,PA,Seattle,WA,2729,4,Dedicated,743,2.64,6.52
+RTE00044,Charlotte,NC,Portland,OR,2627,4,Contract,336,2.94,6.45
+RTE00035,Las Vegas,NV,Dallas,TX,1229,2,Dedicated,720,1.97,6.49
+RTE00019,Houston,TX,Detroit,MI,1271,2,Spot,365,2.64,6.45
+RTE00037,Las Vegas,NV,New York,NY,2561,4,Dedicated,722,1.72,6.5
+RTE00013,Phoenix,AZ,Denver,CO,673,1,Dedicated,747,1.96,6.55
+RTE00018,Philadelphia,PA,Indianapolis,IN,670,1,Contract,379,2.4,6.53
+RTE00049,Columbus,OH,Minneapolis,MN,720,1,Spot,387,2.84,6.54
+RTE00028,Seattle,WA,Houston,TX,2172,3,Dedicated,744,2.12,6.49
+RTE00031,Denver,CO,Kansas City,MO,640,1,Contract,385,2.52,6.48
+RTE00034,Portland,OR,Columbus,OH,2332,4,Contract,382,2.42,6.48
+RTE00047,Columbus,OH,Philadelphia,PA,476,1,Dedicated,812,2.3,6.51
+RTE00044,Charlotte,NC,Portland,OR,2627,4,Spot,365,2.95,6.51
+RTE00006,Chicago,IL,Charlotte,NC,675,1,Contract,397,2.47,6.5
+RTE00057,Kansas City,MO,Charlotte,NC,921,1,Contract,379,2.75,6.52
+RTE00021,Houston,TX,Portland,OR,2108,3,Spot,354,2.68,6.46
+RTE00009,Dallas,TX,Indianapolis,IN,878,1,Spot,363,2.14,6.51
+RTE00008,Dallas,TX,Denver,CO,762,1,Contract,371,2.79,6.52
+RTE00052,Memphis,TN,Minneapolis,MN,804,1,Dedicated,710,1.99,6.53
+RTE00024,Miami,FL,Philadelphia,PA,1175,2,Contract,384,2.78,6.48
+RTE00022,Houston,TX,Memphis,TN,557,1,Contract,378,2.3,6.53
+RTE00032,Portland,OR,Detroit,MI,2259,3,Contract,361,2.17,6.47
+RTE00011,New York,NY,Columbus,OH,547,1,Spot,366,1.99,6.52
+RTE00009,Dallas,TX,Indianapolis,IN,878,1,Contract,336,2.14,6.49
+RTE00031,Denver,CO,Kansas City,MO,640,1,Spot,370,2.52,6.54
+RTE00012,Phoenix,AZ,Philadelphia,PA,2389,4,Dedicated,732,2.85,6.49
+RTE00011,New York,NY,Columbus,OH,547,1,Contract,404,2.02,6.51
+RTE00023,Miami,FL,Dallas,TX,1276,2,Contract,357,2.48,6.53
+RTE00030,Seattle,WA,Indianapolis,IN,2147,3,Contract,368,2.75,6.48
+RTE00014,Phoenix,AZ,Kansas City,MO,1204,2,Contract,377,2.33,6.47
+RTE00010,New York,NY,Philadelphia,PA,92,1,Spot,364,2.48,6.51
+RTE00057,Kansas City,MO,Charlotte,NC,921,1,Dedicated,718,2.75,6.53
+RTE00007,Dallas,TX,New York,NY,1576,2,Contract,376,2.82,6.51
+RTE00006,Chicago,IL,Charlotte,NC,675,1,Dedicated,700,2.43,6.53
+RTE00033,Portland,OR,Seattle,WA,167,1,Dedicated,733,3.01,6.51
+RTE00055,Kansas City,MO,Miami,FL,1429,2,Spot,373,2.73,6.48
+RTE00041,Minneapolis,MN,Houston,TX,1216,2,Spot,396,2.94,6.51
+RTE00048,Columbus,OH,Portland,OR,2332,4,Spot,389,2.96,6.49
+RTE00008,Dallas,TX,Denver,CO,762,1,Dedicated,736,2.78,6.52
+RTE00003,Chicago,IL,Los Angeles,CA,2003,3,Spot,373,2.81,6.52
+RTE00027,Detroit,MI,Houston,TX,1271,2,Spot,366,2.33,6.5
+RTE00054,Kansas City,MO,Los Angeles,CA,1557,2,Contract,390,2.17,6.55
+RTE00005,Chicago,IL,Las Vegas,NV,1749,3,Dedicated,776,2.64,6.47
+RTE00036,Las Vegas,NV,Los Angeles,CA,262,1,Spot,407,3.16,6.47
+RTE00053,Kansas City,MO,Atlanta,GA,777,1,Dedicated,687,2.64,6.51
+RTE00019,Houston,TX,Detroit,MI,1271,2,Dedicated,717,2.63,6.49
+RTE00045,Charlotte,NC,Memphis,TN,597,1,Contract,391,2.59,6.57
+RTE00023,Miami,FL,Dallas,TX,1276,2,Dedicated,698,2.49,6.48
+RTE00043,Charlotte,NC,Denver,CO,1559,2,Contract,390,1.71,6.5
+RTE00047,Columbus,OH,Philadelphia,PA,476,1,Contract,405,2.32,6.53
+RTE00009,Dallas,TX,Indianapolis,IN,878,1,Dedicated,778,2.14,6.44
+RTE00050,Columbus,OH,Kansas City,MO,712,1,Contract,404,2.21,6.47
+RTE00051,Memphis,TN,Los Angeles,CA,1840,3,Dedicated,760,2.08,6.49
+RTE00015,Philadelphia,PA,New York,NY,92,1,Spot,366,3.63,6.52
+RTE00044,Charlotte,NC,Portland,OR,2627,4,Dedicated,709,2.94,6.5
+RTE00049,Columbus,OH,Minneapolis,MN,720,1,Dedicated,721,2.83,6.51
+RTE00039,Minneapolis,MN,Atlanta,GA,1044,1,Dedicated,706,2.4,6.47
+RTE00043,Charlotte,NC,Denver,CO,1559,2,Spot,361,1.7,6.46
+RTE00013,Phoenix,AZ,Denver,CO,673,1,Spot,368,1.95,6.48
+RTE00052,Memphis,TN,Minneapolis,MN,804,1,Spot,403,1.99,6.47
+RTE00014,Phoenix,AZ,Kansas City,MO,1204,2,Dedicated,733,2.32,6.51
+RTE00025,Miami,FL,Seattle,WA,3141,5,Dedicated,712,1.81,6.48
+RTE00048,Columbus,OH,Portland,OR,2332,4,Contract,399,2.99,6.49
+RTE00052,Memphis,TN,Minneapolis,MN,804,1,Contract,377,2.0,6.5
+RTE00022,Houston,TX,Memphis,TN,557,1,Dedicated,702,2.3,6.51
+RTE00026,Miami,FL,Denver,CO,1984,3,Spot,359,1.98,6.53
+RTE00027,Detroit,MI,Houston,TX,1271,2,Contract,369,2.34,6.54
+RTE00038,Las Vegas,NV,Kansas City,MO,1311,2,Spot,341,2.9,6.44
+RTE00045,Charlotte,NC,Memphis,TN,597,1,Spot,394,2.59,6.5
+RTE00038,Las Vegas,NV,Kansas City,MO,1311,2,Contract,372,2.92,6.54
+RTE00047,Columbus,OH,Philadelphia,PA,476,1,Spot,411,2.3,6.48
+RTE00042,Charlotte,NC,Seattle,WA,2623,4,Spot,377,2.52,6.52
+RTE00013,Phoenix,AZ,Denver,CO,673,1,Contract,347,1.97,6.57
+RTE00031,Denver,CO,Kansas City,MO,640,1,Dedicated,750,2.51,6.48
+RTE00028,Seattle,WA,Houston,TX,2172,3,Contract,358,2.13,6.55
+RTE00056,Kansas City,MO,Portland,OR,1718,2,Dedicated,736,2.61,6.49
+RTE00001,Atlanta,GA,Chicago,IL,677,1,Dedicated,687,1.95,6.54
+RTE00020,Houston,TX,Seattle,WA,2172,3,Spot,370,2.09,6.48
+RTE00016,Philadelphia,PA,Seattle,WA,2729,4,Contract,351,2.65,6.52
+RTE00020,Houston,TX,Seattle,WA,2172,3,Contract,380,2.08,6.52
+RTE00055,Kansas City,MO,Miami,FL,1429,2,Contract,333,2.73,6.51
+RTE00046,Columbus,OH,Los Angeles,CA,2269,3,Spot,373,2.89,6.5
+RTE00011,New York,NY,Columbus,OH,547,1,Dedicated,731,2.0,6.48
+RTE00024,Miami,FL,Philadelphia,PA,1175,2,Dedicated,774,2.78,6.51
+RTE00037,Las Vegas,NV,New York,NY,2561,4,Contract,388,1.72,6.49
+RTE00021,Houston,TX,Portland,OR,2108,3,Dedicated,753,2.68,6.49
+RTE00029,Seattle,WA,Charlotte,NC,2623,4,Dedicated,722,2.77,6.51
+RTE00037,Las Vegas,NV,New York,NY,2561,4,Spot,367,1.71,6.54
+RTE00042,Charlotte,NC,Seattle,WA,2623,4,Contract,354,2.52,6.5
+RTE00054,Kansas City,MO,Los Angeles,CA,1557,2,Spot,360,2.19,6.56
+RTE00028,Seattle,WA,Houston,TX,2172,3,Spot,416,2.11,6.48
+RTE00058,Kansas City,MO,Indianapolis,IN,519,1,Contract,364,2.51,6.5
+RTE00058,Kansas City,MO,Indianapolis,IN,519,1,Spot,339,2.53,6.51
+RTE00036,Las Vegas,NV,Los Angeles,CA,262,1,Contract,370,3.13,6.48
+RTE00004,Chicago,IL,Portland,OR,2017,3,Contract,365,2.01,6.48
+RTE00017,Philadelphia,PA,Minneapolis,MN,1130,1,Contract,397,2.15,6.52
+RTE00010,New York,NY,Philadelphia,PA,92,1,Contract,365,2.6,6.5
+RTE00032,Portland,OR,Detroit,MI,2259,3,Dedicated,731,2.16,6.5
+RTE00002,Atlanta,GA,Miami,FL,697,1,Dedicated,730,2.33,6.51
+RTE00035,Las Vegas,NV,Dallas,TX,1229,2,Spot,365,1.97,6.47
+RTE00012,Phoenix,AZ,Philadelphia,PA,2389,4,Contract,365,2.82,6.49
+RTE00003,Chicago,IL,Los Angeles,CA,2003,3,Contract,380,2.79,6.51
+RTE00034,Portland,OR,Columbus,OH,2332,4,Dedicated,716,2.42,6.5
+RTE00018,Philadelphia,PA,Indianapolis,IN,670,1,Dedicated,720,2.39,6.47
+RTE00017,Philadelphia,PA,Minneapolis,MN,1130,1,Spot,390,2.15,6.47
+RTE00050,Columbus,OH,Kansas City,MO,712,1,Spot,357,2.22,6.52
+RTE00030,Seattle,WA,Indianapolis,IN,2147,3,Dedicated,710,2.76,6.5
+RTE00012,Phoenix,AZ,Philadelphia,PA,2389,4,Spot,410,2.86,6.51
+RTE00046,Columbus,OH,Los Angeles,CA,2269,3,Contract,400,2.9,6.48
+RTE00004,Chicago,IL,Portland,OR,2017,3,Spot,380,2.0,6.51
+RTE00035,Las Vegas,NV,Dallas,TX,1229,2,Contract,356,1.97,6.52
+RTE00016,Philadelphia,PA,Seattle,WA,2729,4,Spot,371,2.62,6.54
+RTE00015,Philadelphia,PA,New York,NY,92,1,Contract,377,3.6,6.49
+RTE00026,Miami,FL,Denver,CO,1984,3,Contract,352,1.98,6.51
+RTE00041,Minneapolis,MN,Houston,TX,1216,2,Contract,373,2.95,6.47
+RTE00040,Minneapolis,MN,Los Angeles,CA,1749,3,Contract,364,2.67,6.51
+RTE00007,Dallas,TX,New York,NY,1576,2,Spot,380,2.84,6.51
+RTE00040,Minneapolis,MN,Los Angeles,CA,1749,3,Spot,369,2.65,6.49
